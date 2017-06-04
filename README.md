@@ -1,6 +1,7 @@
 
 # Oxgram
 ![alt text](https://www.oxgram.com/favicon.png) 
+
 Better together to build the future of Digital Currencies.
 Oxgram is an innovative payment network and a new kind of money developed by Skytells, Inc. and operated by everyone.
 
